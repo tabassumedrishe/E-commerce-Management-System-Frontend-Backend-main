@@ -37,7 +37,7 @@ const HomeScreen = ({ match }) => {
       )}
 
       <div className="pt-5">
-        <h1 className="pro_heading">Latest Products</h1>
+        <h1 className="pro_heading">Latest Products list</h1>
       </div>
       {loading ? (
         <Loader />

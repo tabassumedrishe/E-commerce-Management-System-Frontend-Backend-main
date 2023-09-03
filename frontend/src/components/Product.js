@@ -33,9 +33,11 @@ const Product = ({ product }) => {
         {/* <div className="offer">
           <span class="">${product.discoutPrice}</span>
         </div> */}
+        </div>
+
       </Card.Body>
     </Card>
-  );git init
+  )
 };
 
 export default Product;
